@@ -11,3 +11,10 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+|Rank|Languages|
+|:---|---------|
+|1|C|
+|2|Java|
+|3|Python|
+|4|JavaScript|
+|5|SQL|
